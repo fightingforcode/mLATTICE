@@ -1,0 +1,9 @@
+Exosome
+Nucleus
+Nucleoplasm
+Chromatin
+Nucleolus
+Cytosol
+Membrane
+Ribosome
+Cytoplasm
