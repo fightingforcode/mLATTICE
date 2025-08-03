@@ -1,7 +1,4 @@
-""" Layer/Module Helpers
 
-Hacked together by / Copyright 2020 Ross Wightman
-"""
 from itertools import repeat
 import collections.abc
 
