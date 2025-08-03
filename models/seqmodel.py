@@ -1,9 +1,5 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# @Time : 2022/7/26 21:04
-# @Author : fhh
-# @FileName: model.py
-# @Software: PyCharm
 import os
 
 import numpy as np
@@ -43,6 +39,7 @@ class BERTClass(nn.Module):
 @register_backbone(feat_dim=768)
 def seq_encoder(**kwargs):
     return BERTClass(dp1=0.1, dp2=0.1)
+
 
 
 
