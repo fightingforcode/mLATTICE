@@ -1,11 +1,4 @@
 
-# +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-# Created by: jasonseu
-# Created on: 2022-10-10
-# Email: zhuxuelin23@gmail.com
-#
-# Copyright © 2022 - CPSS Group
-# +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 _model_entrypoints = {}
 _backbone_entrypoints = {}
 
