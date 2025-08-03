@@ -1,10 +1,3 @@
-# +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-# Created by: jasonseu
-# Created on: 2022-9-22
-# Email: zhuxuelin23@gmail.com
-#
-# Copyright © 2022 - CPSS Group
-# +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 import math
 import copy
 from typing import Optional
